@@ -24,5 +24,5 @@
 3. Run the main simulation script.
 4. Observe visual alerts and automatic braking response.
 
-## Contributing
-Feel free to fork the repository and make improvements. Pull requests are welcome!
+## 🎥 Demo Video
+Watch here:https://drive.google.com/file/d/1BfBWOlcFR9EP00FhcJpO-Zga_qRWtBHV/view?usp=drive_link
